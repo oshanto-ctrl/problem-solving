@@ -1,3 +1,6 @@
+# problem link: https://leetcode.com/problems/sqrtx/
+
+
 class Solution(object):
     def mySqrt(self, x):
         l = 0
@@ -15,7 +18,7 @@ class Solution(object):
         
         return res
         
- # problem link: https://leetcode.com/problems/sqrtx/
+
 
 
 
